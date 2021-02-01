@@ -1,0 +1,8 @@
+En plesk esta el git
+
+dominio rutas gp , en plesk esta x http ya que no pude poner por ssh , la clave ssh actual en git es la del servidor id_rsa.*
+tambien es la que esta en mi pc.. 
+
+https://github.com/MarcosVnt/larajet
+Git_654*
+
